@@ -13,7 +13,6 @@ p {
     color: grey;
     font-weight: bold;
     font-size: larger;
-    text-decoration: underline;
 }
 .YouTube1 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -27,5 +26,5 @@ a {
     text-align: center;
 }
 .homepage {
-    background-color: antiquewhite;
+    background-color: gainsboro;
 }
